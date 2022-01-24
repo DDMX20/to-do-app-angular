@@ -1,0 +1,17 @@
+.shadow{
+border-right:2px solid rgba(216, 212, 212,.2);    background-color: #FFFFFF;
+width: 325px
+}
+.SideDrawerbox{
+    height: 100%;
+    width: 100%;
+}
+.nav-box{
+    background-color: #FCFBFD;
+}
+.panel-box{
+    padding-top: 50px;
+    background-color: #FCFBFD;
+    height: 84%;
+
+}   

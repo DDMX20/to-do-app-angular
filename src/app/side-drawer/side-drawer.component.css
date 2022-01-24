@@ -1,0 +1,18 @@
+.box {
+  height: 100px;
+}
+.side-drawer-items {
+  margin-left: 50px;
+}
+.side-drawer-items:hover {
+  border-right: 5px solid #09cfa4;
+  color: #626262;
+}
+.side-drawer-items-control{
+    margin-left: 50px;
+
+}
+.side-drawer-items-control:hover{
+    border-right: 5px solid #09cfa4;
+    color: #626262;
+}
